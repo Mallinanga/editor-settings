@@ -22,14 +22,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="671e7bc0-420a-4fe2-9bd2-137f900cebc9" name="psd2newsletters.com" url="https://www.psd2newsletters.com/">
-        <fileTransfer host="psd" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
     </option>
   </component>
 </application>
