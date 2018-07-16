@@ -22,6 +22,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="fdf4edd7-951f-49b6-a93e-773379496c36" name="zilia.vgwebthings.com" url="http://zilia.vgwebthings.com/">
+        <fileTransfer host="zilia" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
