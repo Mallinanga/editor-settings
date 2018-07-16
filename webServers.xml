@@ -6,7 +6,7 @@
       </SftpAdvancedOptions>
     </sftpAdvancedGlobalOptions>
     <option name="servers">
-      <webServer id="c7e8f598-02de-465a-83a7-d12b3b23e67e" name="clients-7.vgwebthings.com" url="http://clients-7.vgwebthings.com">
+      <webServer id="c7e8f598-02de-465a-83a7-d12b3b23e67e" name="clients-7.vgwebthings.com" url="http://clients-7.vgwebthings.com/">
         <fileTransfer host="clients-7" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
@@ -14,7 +14,7 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="b6902a0f-3951-444b-b274-190b1123f360" name="clients-6.vgwebthings.com" url="http://clients-6.vgwebthings.com">
+      <webServer id="b6902a0f-3951-444b-b274-190b1123f360" name="clients-6.vgwebthings.com" url="http://clients-6.vgwebthings.com/">
         <fileTransfer host="clients-6" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
