@@ -38,6 +38,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="8690997d-b7cf-42ed-99ff-8a0293bf2df3" name="blinky.vgwebthings.com" url="http://blinky.vgwebthings.com/">
+        <fileTransfer host="blinky" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
