@@ -46,6 +46,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="b9ae4b5e-ee67-4473-a662-42577e431a81" name="clients-8.vgwebthings.com" url="http://clients-8.vgwebthings.com/">
+        <fileTransfer host="clients-8" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
