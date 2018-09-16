@@ -30,6 +30,7 @@
       </value>
     </option>
   </inspection_tool>
+  <inspection_tool class="CssUnknownTarget" enabled="false" level="ERROR" enabled_by_default="false" />
   <inspection_tool class="CyclomaticComplexityJS" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="m_limit" value="10" />
   </inspection_tool>
