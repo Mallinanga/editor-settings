@@ -139,5 +139,4 @@
     <option name="myCssVersion" value="css3" />
     <option name="myIgnoreVendorSpecificProperties" value="false" />
   </inspection_tool>
-  <inspection_tool class="XHTMLIncompatabilitiesJS" enabled="true" level="WARNING" enabled_by_default="true" />
 </profile>
