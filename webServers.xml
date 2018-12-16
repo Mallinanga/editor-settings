@@ -54,6 +54,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="e6545a61-2563-462e-8e3e-3f81cd9278f9" name="meshegg.vgwebthings.com" url="http://meshegg.vgwebthings.com/">
+        <fileTransfer host="meshegg" port="22" rootFolder="/srv/www/" accessType="SFTP" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
